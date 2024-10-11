@@ -37,5 +37,10 @@ KOSIS 국가통계포털
 ![image](https://github.com/user-attachments/assets/7bc18409-f93f-4be0-bb08-5aa6816619c2)
 
 
+
+
+
+
 김의 소비자물가 지수는 해외 수출량과 비례함
+
 기후 변화에 따른 해수면 온도 상승과는 크게 연관 없어보임
